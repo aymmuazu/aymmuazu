@@ -31,8 +31,7 @@
 ---
 
 ### 💼 Educational/Professional Qualifications
-- **Cisco Networking Academy** *(A+ Certification)*
-- **Introduction to Cybersecurity** *(Nigeria NetAcad)*
+- **Cisco Networking Academy** *(Introduction to Cybersecurity: A+ Certification)*
 - **B.Sc. (Hons) Cyber Security** *(Second Class Upper, Federal University, Dutse)*
 - **National Diploma in Computer Science** *(Upper Credit, Abubakar Tatari Ali Polytechnic, Bauchi)*
 - **Secondary School Leaving Certificate** *(Aspira Secondary School, Bauchi)*
